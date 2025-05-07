@@ -4,8 +4,8 @@ app = Flask('app')
 
 vendedores = [
     {"nome": "Anthony", "numero": "5587991806886"},
-    {"nome": "Ane", "numero": "5587991806886"},
-    {"nome": "Paula", "numero": "5587991806886"}
+    {"nome": "Ane", "numero": "5587991898585"},
+    {"nome": "Paula", "numero": "5587991869999"}
 ]
 
 indice_atual = {"valor": 0}
